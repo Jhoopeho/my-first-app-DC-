@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name | Personal Site",
+  title: "Hope John Bagaipo | Personal Site",
   description: "A personal site built with Next.js",
 };
 
