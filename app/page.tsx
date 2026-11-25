@@ -8,7 +8,7 @@ export default function Home() {
       </h1>
       <p className="mb-6 text-lg text-gray-600">
         BSIT 3rd Year Student.
-        Study of Mater Dei College.
+        Study from Mater Dei College.
       </p>
       <Link
         href="/projects"
